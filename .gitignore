@@ -567,3 +567,5 @@ FodyWeavers.xsd
 *.yml
 
 backend/application.yml
+
+logs/
